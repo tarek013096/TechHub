@@ -1,0 +1,87 @@
+<!-- Bootstrap CSS login -->
+ 
+body {
+          background-color: #54948bd5;
+      }
+
+     
+
+      .login-container {
+          margin-top: 150px;
+      }
+
+      .card {
+          border: none;
+          border-radius: 10px;
+          box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+      }
+
+      .card-header {
+          background-color: #007bff;
+          color: white;
+          text-align: center;
+          font-size: 1.5rem;
+          padding: 20px;
+          border-top-left-radius: 10px;
+          border-top-right-radius: 10px;
+      }
+
+      .card-body {
+          padding: 2rem;
+      }
+
+      .form-group input {
+          border-radius: 0.25rem;
+          box-shadow: none;
+      }
+
+      .form-group label {
+          font-weight: bold;
+      }
+
+      .btn-custom {
+          background-color: #007bff;
+          color: white;
+          width: 100%;
+          padding: 10px;
+          font-size: 1.1rem;
+          border-radius: 0.25rem;
+      }
+
+      .btn-custom:hover {
+          background-color: #0056b3;
+      }
+
+      .text-center a {
+          color: #007bff;
+      }
+
+      .text-center a:hover {
+          text-decoration: none;
+      }
+
+
+
+       /* Center the form on the page */
+.reset-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgba(67, 134, 125, 0.034);
+}
+
+/* Card styles */
+.reset-card {
+  padding: 2rem;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background: white;
+}
+
+.reset-card h3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
